@@ -1,3 +1,4 @@
 {
-  "LockModule#Lock": "0x252d3Ed018706B10ACc7aFe1ab69B49c1b3b567E"
+  "LockModule#Lock": "0x252d3Ed018706B10ACc7aFe1ab69B49c1b3b567E",
+  "SimpleBankModule#SimpleBank": "0xc23e86E97b455F6d031ec0F0C0F9eBF330959e1D"
 }
